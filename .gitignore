@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.log
+*.pid
+output/
+generated/
+data/
+*.sqlite3
+*.db

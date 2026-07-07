@@ -1,0 +1,8 @@
+PyQt5>=5.15
+PyQtWebEngine>=5.15
+requests>=2.31
+PyJWT>=2.8
+websockets>=12.0
+opencv-python>=4.8
+numpy>=1.26
+onnxruntime>=1.17
